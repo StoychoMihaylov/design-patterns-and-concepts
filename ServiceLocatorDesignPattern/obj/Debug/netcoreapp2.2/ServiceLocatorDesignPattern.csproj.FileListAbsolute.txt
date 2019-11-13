@@ -1,0 +1,10 @@
+C:\Users\stmih\source\repos\DesignPatternAndConcepts\ServiceLocatorDesignPattern\bin\Debug\netcoreapp2.2\ServiceLocatorDesignPattern.deps.json
+C:\Users\stmih\source\repos\DesignPatternAndConcepts\ServiceLocatorDesignPattern\bin\Debug\netcoreapp2.2\ServiceLocatorDesignPattern.runtimeconfig.json
+C:\Users\stmih\source\repos\DesignPatternAndConcepts\ServiceLocatorDesignPattern\bin\Debug\netcoreapp2.2\ServiceLocatorDesignPattern.runtimeconfig.dev.json
+C:\Users\stmih\source\repos\DesignPatternAndConcepts\ServiceLocatorDesignPattern\bin\Debug\netcoreapp2.2\ServiceLocatorDesignPattern.dll
+C:\Users\stmih\source\repos\DesignPatternAndConcepts\ServiceLocatorDesignPattern\bin\Debug\netcoreapp2.2\ServiceLocatorDesignPattern.pdb
+C:\Users\stmih\source\repos\DesignPatternAndConcepts\ServiceLocatorDesignPattern\obj\Debug\netcoreapp2.2\ServiceLocatorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\stmih\source\repos\DesignPatternAndConcepts\ServiceLocatorDesignPattern\obj\Debug\netcoreapp2.2\ServiceLocatorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\stmih\source\repos\DesignPatternAndConcepts\ServiceLocatorDesignPattern\obj\Debug\netcoreapp2.2\ServiceLocatorDesignPattern.AssemblyInfo.cs
+C:\Users\stmih\source\repos\DesignPatternAndConcepts\ServiceLocatorDesignPattern\obj\Debug\netcoreapp2.2\ServiceLocatorDesignPattern.dll
+C:\Users\stmih\source\repos\DesignPatternAndConcepts\ServiceLocatorDesignPattern\obj\Debug\netcoreapp2.2\ServiceLocatorDesignPattern.pdb
